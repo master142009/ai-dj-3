@@ -1,0 +1,14 @@
+body {
+    background-size: cover;
+}
+
+#play_song {
+    font-size: 24px;
+    margin: 15px;
+    border-radius: 35px;
+}
+
+canvas {
+    border: 7px solid white;
+    border-radius: 24px;
+}
